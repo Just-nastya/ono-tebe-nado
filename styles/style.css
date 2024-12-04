@@ -1,11 +1,9 @@
-/* место для вашего кода */
-
 body {
   margin:0;
   font-family: Raleway, sans-serif;
   font-weight: normal;
   line-height: 1.2;
-  background-color: #dedbdb;
+  background-color: #ffffff;
   width: 1100px;
 }
 
@@ -21,7 +19,7 @@ body {
   margin-left: 0;
 }
 
-.header__links-list{
+.header__links-list {
   display: flex;
   padding: 0; 
   list-style:circle;
@@ -29,7 +27,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.header__links-list-item:first-child{
+.header__links-list-item:first-child {
   list-style:none;  
 }
 
@@ -145,8 +143,6 @@ body {
   color: #ffffff;
   word-spacing: 18px;
 }
-
-
 
 .bet-button {
   background-color: transparent;
