@@ -21,14 +21,14 @@ body {
 
 .header__links-list {
   display: flex;
-  padding: 0; 
+  padding: 0;
   list-style:circle;
   gap:30px;
   letter-spacing: 0.02em;
 }
 
 .header__links-list-item:first-child {
-  list-style:none;  
+  list-style:none;
 }
 
 .header__link {
@@ -127,7 +127,7 @@ body {
 }
 
 .no-letter-spacing-extended {
-  letter-spacing: 0em; 
+  letter-spacing: 0em;
 }
 
 .cover__description {
@@ -171,7 +171,7 @@ body {
 
 .lots__card-list {
   display: flex;
-  padding: 0; 
+  padding: 0;
   gap:26px;
   letter-spacing: 0.02em;
   margin-top: 26px;
@@ -265,7 +265,7 @@ body {
   justify-self: center;
 }
 
-.about__column:first-child { 
+.about__column:first-child {
   justify-self: center;
 }
 
@@ -278,7 +278,7 @@ body {
   display: block;
   background-image: url("../images/circle.svg");
   background-position: center;
-  background-size: contain; 
+  background-size: contain;
   background-repeat: no-repeat;
   padding: 67px 48px 64px 46px;
   width: 240px;
@@ -323,8 +323,8 @@ body {
 .footer__menu-list {
   display: flex;
   flex-direction: column;
-  padding: 0; 
-  list-style:none;  
+  padding: 0;
+  list-style:none;
   letter-spacing: 0.02em;
   align-items: center;
 }
@@ -345,8 +345,8 @@ body {
 .footer__social-list {
   display: flex;
   gap: 0 48px;
-  padding: 0; 
-  list-style:none;  
+  padding: 0;
+  list-style:none;
   letter-spacing: 0.02em;
   justify-content: space-between;
 }
